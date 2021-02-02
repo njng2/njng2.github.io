@@ -37,7 +37,7 @@ p {
 
 .letter.out {
   transform: rotateX(90deg);
-  transition: transform 0.3s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  transition: transform 0.38s cubic-bezier(0.55, 0.055, 0.675, 0.19);
 }
 
 .letter.behind {
